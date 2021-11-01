@@ -1,0 +1,68 @@
+21:067  0:869  Found UEFI Acpi 2.0 RSDP at %p
+21:067  0:000  Saving ACPI tables from RSDP %p to Âçí‚ÅÑÂëê‚Åí‰£ëÂÖê‰ïè…çÓÇ¨Îßø$ ...
+21:067  0:000   %p: 'RSD PTR —HPQOEM¨‡ˇπ$', Rev: -1350174377 (Acpi 2.0 or newer), Len: 36
+21:067  0:000    (Xsdt: %p, Rsdt: %p)
+21:067  0:000    %p: 'XSDTî', 'XSDT', Rev: -1350174553, Len: 1
+21:067  0:000    %p: 'RSDT\', 'RSDT', Rev: -1350174553, Len: 1
+21:067  0:000    Tables in Xsdt: 14
+21:067  0:000    0. %p: 'FACP', 'FACP', Rev: -1350174553, Len: 5
+21:067  0:000        (Dsdt: B9FD3000, Facs: B9E31000, XDsdt: b9fd3000, XFacs: b9e31000)
+21:067  0:000        %p: 'DSDTÒ?', 'DSDT', Rev: -1350174697, Len: 2
+21:069  0:002        %p: 'FACS@', Ver: -1350174533, Len: 1
+21:069  0:000    1. %p: 'HPET8', 'HPET', Rev: -1350174553, Len: 1
+21:069  0:000    2. %p: 'APICº', 'APIC', Rev: -1350174553, Len: 1
+21:069  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -1350174553, Len: 1
+21:069  0:000    4. %p: 'ASF!•', 'ASF!', Rev: -1350174553, Len: 32
+21:069  0:000    5. %p: 'SSDT!', 'SSDT', Rev: -1350174553, Len: 1
+21:069  0:000    6. %p: 'SSDTä', 'SSDT', Rev: -1350174553, Len: 1
+21:069  0:000    7. %p: 'SLICv', 'SLIC', Rev: -1350174553, Len: 1
+21:069  0:000    8. %p: 'MSDMU', 'MSDM', Rev: -1350174553, Len: 3
+21:069  0:000    9. %p: 'FPDTD', 'FPDT', Rev: -1350174553, Len: 1
+21:069  0:000    10. %p: 'BGRT8', 'BGRT', Rev: -1350174553, Len: 0
+21:069  0:000    11. %p: 'SSDTD', 'SSDT', Rev: -1350174553, Len: 1
+21:069  0:000    12. %p: 'SSDTÛ
+', 'SSDT', Rev: -1350174553, Len: 1
+21:069  0:000    13. %p: 'SSDTΩ', 'SSDT', Rev: -1350174553, Len: 1
+21:069  0:000    Tables in Rsdt: 14
+21:069  0:000    0. %p: 'FACP', 'FACP', Rev: -1350174553, Len: 5
+21:069  0:000        (Dsdt: B9FD3000, Facs: B9E31000, XDsdt: b9fd3000, XFacs: b9e31000)
+21:069  0:000        %p: 'DSDTÒ?', 'DSDT', Rev: -1350174697, Len: 2
+21:072  0:002        %p: 'FACS@', Ver: -1350174533, Len: 1
+21:072  0:000    1. %p: 'HPET8', 'HPET', Rev: -1350174553, Len: 1
+21:072  0:000    2. %p: 'APICº', 'APIC', Rev: -1350174553, Len: 1
+21:072  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -1350174553, Len: 1
+21:072  0:000    4. %p: 'ASF!•', 'ASF!', Rev: -1350174553, Len: 32
+21:072  0:000    5. %p: 'SSDT!', 'SSDT', Rev: -1350174553, Len: 1
+21:072  0:000    6. %p: 'SSDTä', 'SSDT', Rev: -1350174553, Len: 1
+21:072  0:000    7. %p: 'SLICv', 'SLIC', Rev: -1350174553, Len: 1
+21:072  0:000    8. %p: 'MSDMU', 'MSDM', Rev: -1350174553, Len: 3
+21:072  0:000    9. %p: 'FPDTD', 'FPDT', Rev: -1350174553, Len: 1
+21:072  0:000    10. %p: 'BGRT8', 'BGRT', Rev: -1350174553, Len: 0
+21:072  0:000    11. %p: 'SSDTD', 'SSDT', Rev: -1350174553, Len: 1
+21:072  0:000    12. %p: 'SSDTÛ
+', 'SSDT', Rev: -1350174553, Len: 1
+21:072  0:000    13. %p: 'SSDTΩ', 'SSDT', Rev: -1350174553, Len: 1
+21:072  0:000  Found UEFI Acpi 1.0 RSDP at %p
+21:072  0:000  Printing ACPI tables from RSDP %p ...
+21:072  0:000   %p: 'RSD PTR GHPQOEM', Rev: -1350174377 (Acpi 1.0), Len: 20
+21:072  0:000    (Rsdt: %p)
+21:072  0:000    %p: 'RSDT\', 'RSDT', Rev: -1350174553, Len: 1
+21:072  0:000    Tables in Rsdt: 14
+21:072  0:000    0. %p: 'FACPt', 'FACP', Rev: -1350174553, Len: 1
+21:072  0:000        (Dsdt: B9FD3000, Facs: B9E31000)
+21:072  0:000        %p: 'DSDTÒ?', 'DSDT', Rev: -1350174697, Len: 2
+21:075  0:002        %p: 'FACS@', Ver: -1350174533, Len: 1
+21:075  0:000    1. %p: 'HPET8', 'HPET', Rev: -1350174553, Len: 1
+21:075  0:000    2. %p: 'APICº', 'APIC', Rev: -1350174553, Len: 1
+21:075  0:000    3. %p: 'MCFG<', 'MCFG', Rev: -1350174553, Len: 1
+21:075  0:000    4. %p: 'ASF!•', 'ASF!', Rev: -1350174553, Len: 32
+21:075  0:000    5. %p: 'SSDT!', 'SSDT', Rev: -1350174553, Len: 1
+21:075  0:000    6. %p: 'SSDTä', 'SSDT', Rev: -1350174553, Len: 1
+21:075  0:000    7. %p: 'SLICv', 'SLIC', Rev: -1350174553, Len: 1
+21:075  0:000    8. %p: 'MSDMU', 'MSDM', Rev: -1350174553, Len: 3
+21:075  0:000    9. %p: 'FPDTD', 'FPDT', Rev: -1350174553, Len: 1
+21:075  0:000    10. %p: 'BGRT8', 'BGRT', Rev: -1350174553, Len: 0
+21:075  0:000    11. %p: 'SSDTD', 'SSDT', Rev: -1350174553, Len: 1
+21:075  0:000    12. %p: 'SSDTÛ
+', 'SSDT', Rev: -1350174553, Len: 1
+21:075  0:000    13. %p: 'SSDTΩ', 'SSDT', Rev: -1350174553, Len: 1
